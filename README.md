@@ -4,11 +4,11 @@
 
 
 ## I'm a Software Engineer and Life Long Learner!
-- 🌱 I’m currently Learning MERN Stack at Masai School.
+- 🌱 I have 3 years of experience as a Software Engineer.
 - 🌏 Looking to solve real-world problems.
 - 💻 I'm passionate about making creative websites.
 - ⚡ Fact: I love to be fit first.
-- 💬 Ask me about Javascript, HTML, CSS, React, Redux, Nodejs, Git, Chakra Ui, Material Ui, Bootstrap, Node Js, Npm
+- 💬 Ask me about Javascript, HTML, CSS, React, Redux, Nodejs, Git, Chakra Ui, Material Ui, Bootstrap, Node Js, Npm, ROR.
 - 🙏 Do 🌟 my repository if you find my projects interesting, at least your star could make someone's day.<br/>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
@@ -31,7 +31,7 @@
 
 - 📫 How to reach me **pradeep.py725@gmail.com**
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1wmzt-AV0Hq62l2yrflWKfXT45bQEokJk/view?usp=sharing)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1Tot90DuTjUVFUOnZI6bMBf5zfcLB7O5o/view?usp=sharing)
 
 - ⚡ Fun fact **I am not Funny**
 
